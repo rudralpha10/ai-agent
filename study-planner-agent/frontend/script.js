@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000/chat";
+const API_URL = "https://ai-agent-2-zac5.onrender.com"
 
 async function send() {
     const input = document.getElementById("msg");
